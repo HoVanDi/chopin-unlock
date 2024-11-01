@@ -2,7 +2,7 @@ import React from "react";
 
 const ApplyProgram = () => {
   return (
-    <div className="text-white p-8 text-center bg-slate-900">
+    <div className="text-white p-12 text-center bg-slate-900 2xl:text-2xl lg:text-base">
       <p>
         Apply
         <a href="#" className="mx-1 text-blue-600">

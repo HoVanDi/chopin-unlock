@@ -8,7 +8,7 @@ import {
   Legend,
 } from "chart.js";
 import { Chart as ChartJS } from "chart.js";
-import "./customTooltip.css";
+import "../Style/CustomCanvas.css";
 
 // Register components
 ChartJS.register(
@@ -29,7 +29,7 @@ export const data = {
       label: "F0, F1, F2",
       data: [
         { x: 0, y: 0 },
-        { x: 2.25, y: 15},
+        { x: 2.2, y: 18 },
         { x: 3, y: 30 },
       ],
       backgroundColor: "#fff",
@@ -37,6 +37,7 @@ export const data = {
       borderWidth: 2,
       tension: 0.3,
       showLine: true,
+      pointRadius: [0, 5, 0],
     },
   ],
 };

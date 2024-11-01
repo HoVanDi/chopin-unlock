@@ -6,7 +6,7 @@ import './index.css'
 
 const App = () => {
   return (
-    <div className="bg-custom-dark text-white min-h-screen font-anuphan">
+    <div className="bg-main-color-bg text-white min-h-screen font-anuphan">
       <ReferralProgram />
       <div className="p-4">
         <HowItWorks />

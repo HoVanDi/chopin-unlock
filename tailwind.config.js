@@ -4,9 +4,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "custom-dark": "#0B0E18",
-        "color-dark": "#423ef41a",
-        custom: {
+        "main-color-bg": "#0B0E18",
+        "gray-color": "#423ef41a",
+        borderColor: {
           DEFAULT: "#313856",
         },
         fontFamily: {

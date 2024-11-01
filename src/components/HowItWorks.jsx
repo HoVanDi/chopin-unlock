@@ -6,6 +6,7 @@ const HowItWorks = () => {
     <div className="bg-dark-blue text-white pb-4">
       <div className="flex items-center mb-4">
         <svg
+          className="w-18 h-22 max-sm:w-8 max-sm:h-8 sm:w-8 sm:h-8 lg:w-6 lg:h-8 xl:w-6 xl:h-8 2xl:w-10 2xl:h-12"
           width="18"
           height="22"
           viewBox="0 0 18 22"
@@ -17,7 +18,9 @@ const HowItWorks = () => {
             fill="#777E90"
           />
         </svg>
-        <h2 className="text-2xl font-bold ml-[14px]">How It Works?</h2>
+        <h2 className="text-2xl font-bold ml-[14px] 2xl:text-2xl lg:text-xl sm:text-xl max-sm:text-xl">
+          How It Works?
+        </h2>
       </div>
       <TierSystem />
     </div>
