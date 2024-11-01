@@ -7,7 +7,7 @@ const TierSystem = () => {
         <div className="border border-borderColor p-8 rounded">
           <img
             className="mb-8 w-18 max-sm:w-16 max-sm:h-16 sm:w-16 sm:h-16 h-22 md:w-10 md:h-10 lg:w-10 lg:h-10 xl:w-12 xl:h-12 2xl:w-14 2xl:h-14 block max-md:mx-auto md:mx-0"
-            src="/Images/ReferralSystem.svg"
+            src="https://res.cloudinary.com/dsp0tuvsv/image/upload/v1730450872/SOCIAL/ly2ykpoxhmm3yxwagfm2.svg"
             alt="Referral System"
           />
           <h3 className="font-bold mb-2 2xl:text-2xl max-md:text-center sm:text-xl max-sm:text-xl">
@@ -21,8 +21,8 @@ const TierSystem = () => {
         <div className="ml-1 border border-borderColor p-8 rounded">
           <img
             className="mb-8 w-18 max-sm:w-16 max-sm:h-16 sm:w-16 sm:h-16 h-22 md:w-10 md:h-10 lg:w-10 lg:h-10 xl:w-12 xl:h-12 2xl:w-14 2xl:h-14 block max-md:mx-auto md:mx-0"
-            src="/Images/Commission.svg"
-            alt="Referral System"
+            src="https://res.cloudinary.com/dsp0tuvsv/image/upload/v1730450875/SOCIAL/reb6lwoutkyj2olxhkj9.svg"
+            alt="Commission"
           />
           <h3 className="font-bold mb-2 2xl:text-2xl max-md:text-center sm:text-xl max-sm:text-xl">
             2. Earn Rebates & Commissions
@@ -34,8 +34,8 @@ const TierSystem = () => {
         <div className="ml-1 border border-borderColor p-8 rounded">
           <img
             className="mb-8 w-18 max-sm:w-16 max-sm:h-16 sm:w-16 sm:h-16 h-22 md:w-10 md:h-10 lg:w-10 lg:h-10 xl:w-12 xl:h-12 2xl:w-14 2xl:h-14 block max-md:mx-auto md:mx-0"
-            src="/Images/Reward.svg"
-            alt="Referral System"
+            src="https://res.cloudinary.com/dsp0tuvsv/image/upload/v1730451070/SOCIAL/oniu4d5rphjcq32de0sc.svg"
+            alt="Referral"
           />
           <h3 className="font-bold mb-2 2xl:text-2xl max-md:text-center sm:text-xl max-sm:text-xl">
             3. Claim Daily Rewards
@@ -48,8 +48,8 @@ const TierSystem = () => {
         <div className="ml-1 border border-borderColor p-8 rounded">
           <img
             className="mb-8 w-18 max-sm:w-16 max-sm:h-16 sm:w-16 sm:h-16 h-22 md:w-10 md:h-10 lg:w-10 lg:h-10 xl:w-12 xl:h-12 2xl:w-14 2xl:h-14 block max-md:mx-auto md:mx-0"
-            src="/Images/Referral.svg"
-            alt="Referral System"
+            src="https://res.cloudinary.com/dsp0tuvsv/image/upload/v1730451072/SOCIAL/qke3ozno8bmzdkhwrevi.svg"
+            alt="Referral"
           />
           <h3 className="font-bold mb-2 2xl:text-2xl max-md:text-center sm:text-xl max-sm:text-xl">
             4. Referral Tier System
